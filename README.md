@@ -8,7 +8,7 @@ This project involves the analysis of **271,116 records** from the Summer Olympi
 - **Interactive Visualization**: Developed an interactive **Streamlit** web application, allowing users to explore Olympic data dynamically.
 - **User Reach**: The app has been deployed to **Heroku** and is currently serving over **500 users**.
 - **Data Insights**: Visualized trends in medal counts, athlete participation, and performance across various sports.
-- ###Findings
+ ### Findings
 - The more the number of participation of atheletes from a particular country, the higher the probability of winninag a medal of that country.
 - United States has the highest number of participation and has won most number of gold medals.
 - Over the period of time, the number of participation of female atheletes has increased tremendously.
